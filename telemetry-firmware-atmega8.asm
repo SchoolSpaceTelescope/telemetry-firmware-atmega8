@@ -7,7 +7,7 @@
 .def temp3 = R21
 
 
-.equ VERSION = 4
+.equ VERSION = 5
 
 .equ BAUD = 9600
 .equ FREQ = 14745600
