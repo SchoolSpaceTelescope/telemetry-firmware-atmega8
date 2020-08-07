@@ -1,0 +1,9 @@
+#AVR Studio Assembler gitignore
+AvrBuild.bat
+*.pdsbak
+*.aws
+*.hex
+*.map
+*.obj
+*.workspace
+*.tmp
